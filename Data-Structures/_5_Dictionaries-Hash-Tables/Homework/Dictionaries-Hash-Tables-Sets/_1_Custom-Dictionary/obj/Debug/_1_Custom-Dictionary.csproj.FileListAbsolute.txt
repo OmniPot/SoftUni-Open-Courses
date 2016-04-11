@@ -1,0 +1,5 @@
+E:\Google Drive\Software-University\Data-Structures\_5_Dictionaries-Hash-Tables\Homework\Dictionaries-Hash-Tables-Sets\_1_Custom-Dictionary\bin\Debug\_1_Custom-Dictionary.exe
+E:\Google Drive\Software-University\Data-Structures\_5_Dictionaries-Hash-Tables\Homework\Dictionaries-Hash-Tables-Sets\_1_Custom-Dictionary\bin\Debug\_1_Custom-Dictionary.pdb
+E:\Google Drive\Software-University\Data-Structures\_5_Dictionaries-Hash-Tables\Homework\Dictionaries-Hash-Tables-Sets\_1_Custom-Dictionary\obj\Debug\_1_Custom-Dictionary.csprojResolveAssemblyReference.cache
+E:\Google Drive\Software-University\Data-Structures\_5_Dictionaries-Hash-Tables\Homework\Dictionaries-Hash-Tables-Sets\_1_Custom-Dictionary\obj\Debug\_1_Custom-Dictionary.exe
+E:\Google Drive\Software-University\Data-Structures\_5_Dictionaries-Hash-Tables\Homework\Dictionaries-Hash-Tables-Sets\_1_Custom-Dictionary\obj\Debug\_1_Custom-Dictionary.pdb

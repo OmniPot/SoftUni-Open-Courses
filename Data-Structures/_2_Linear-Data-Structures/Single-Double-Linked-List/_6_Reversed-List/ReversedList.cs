@@ -61,12 +61,10 @@ public class ReversedList<T> : IEnumerable<T>
     public IEnumerator<T> GetEnumerator()
     {
         var index = this.Count - 1;
-        T currentItem;
 
         while (index >= 0)
         {
-            currentItem = this.Content[index--];
-            yield return currentItem;
+            yield return this.Content[index--];
         }
     }
 
@@ -114,15 +112,15 @@ public class TestClass
         Console.WriteLine("Capacity: " + revList.Capacity);
 
         Console.WriteLine();
-        Console.WriteLine("To string: " + revList.ToString());
+        Console.WriteLine("To string: " + revList);
         Console.WriteLine();
 
         revList.Remove(3);
-        Console.WriteLine("Item at index 3 removed. : " + revList.ToString());
+        Console.WriteLine("Item at index 3 removed. : " + revList);
         Console.WriteLine();
         
         revList.Add(4);
-        Console.WriteLine("Item 4 added. : " + revList.ToString());
+        Console.WriteLine("Item 4 added. : " + revList);
         Console.WriteLine();
 
         Console.Write("Enumerator (foreach): ");

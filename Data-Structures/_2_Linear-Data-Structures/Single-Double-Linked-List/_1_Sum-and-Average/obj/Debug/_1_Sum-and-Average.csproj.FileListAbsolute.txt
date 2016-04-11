@@ -1,0 +1,4 @@
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Single-Double-Linked-List\_1_Sum-and-Average\bin\Debug\Linear-Data-Structures-Homework.exe
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Single-Double-Linked-List\_1_Sum-and-Average\bin\Debug\Linear-Data-Structures-Homework.pdb
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Single-Double-Linked-List\_1_Sum-and-Average\obj\Debug\Linear-Data-Structures-Homework.exe
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Single-Double-Linked-List\_1_Sum-and-Average\obj\Debug\Linear-Data-Structures-Homework.pdb

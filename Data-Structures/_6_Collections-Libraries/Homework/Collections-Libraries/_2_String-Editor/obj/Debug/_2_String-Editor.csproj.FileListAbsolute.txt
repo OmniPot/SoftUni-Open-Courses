@@ -1,0 +1,6 @@
+E:\Google Drive\Software-University\Data-Structures\_6_Collections-Libraries\Homework\Collections-Libraries\_2_String-Editor\bin\Debug\_2_String-Editor.exe
+E:\Google Drive\Software-University\Data-Structures\_6_Collections-Libraries\Homework\Collections-Libraries\_2_String-Editor\bin\Debug\_2_String-Editor.pdb
+E:\Google Drive\Software-University\Data-Structures\_6_Collections-Libraries\Homework\Collections-Libraries\_2_String-Editor\bin\Debug\PowerCollections.dll
+E:\Google Drive\Software-University\Data-Structures\_6_Collections-Libraries\Homework\Collections-Libraries\_2_String-Editor\bin\Debug\PowerCollections.xml
+E:\Google Drive\Software-University\Data-Structures\_6_Collections-Libraries\Homework\Collections-Libraries\_2_String-Editor\obj\Debug\_2_String-Editor.exe
+E:\Google Drive\Software-University\Data-Structures\_6_Collections-Libraries\Homework\Collections-Libraries\_2_String-Editor\obj\Debug\_2_String-Editor.pdb

@@ -8,15 +8,26 @@ public class SumAndAverage
     {
         Console.WriteLine("Insert a sequence of numbers separated by a single space.");
 
-        string inputString = Console.ReadLine();
-        string[] inputSequence = inputString.Split(' ');
+        try
+        {
+            string inputString = Console.ReadLine();
+            if (inputString == string.Empty)
+            {
+                throw new ArgumentNullException("Line of numbers canno be empty string!");
+            }
 
-        List<int> parsedNumbers = inputSequence.Select(str => int.Parse(str)).ToList();
+            string[] inputSequence = inputString.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+            List<int> parsedNumbers = inputSequence.Select(s => int.Parse(s.Trim())).ToList();
 
-        var averageOfParsed = parsedNumbers.Average();
-        var sumOfParsed = parsedNumbers.Sum();
+            var averageOfParsed = parsedNumbers.Average();
+            var sumOfParsed = parsedNumbers.Sum();
 
-        Console.WriteLine("Sum = " + sumOfParsed);
-        Console.WriteLine("Average = " + averageOfParsed);
+            Console.WriteLine("Sum = " + sumOfParsed);
+            Console.WriteLine("Average = " + averageOfParsed);
+        }
+        catch (ArgumentNullException e)
+        {
+            Console.WriteLine(e.Message);
+        }
     }
 }

@@ -22,27 +22,22 @@ public class GraphConnectedComponents
     public static void Main()
     {
         graph = ReadGraph();
-        //visited = new bool[graph.Length];
-        //DFS(0);
-        //Console.WriteLine();
-
         FindGraphConnectedComponents();
     }
 
     private static List<int>[] ReadGraph()
     {
         var n = int.Parse(Console.ReadLine());
-        var graph = new List<int>[n];
-        for (var i = 0; i < n; i++)
+        List<int>[] newGraph = new List<int>[n];
+        for (var i = 0; i < newGraph.Length; i++)
         {
-            graph[i] =
-                Console.ReadLine()
-                    .Split(new[] {' '}, StringSplitOptions.RemoveEmptyEntries)
-                    .Select(int.Parse)
-                    .ToList();
+            newGraph[i] = Console.ReadLine()
+                .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToList();
         }
 
-        return graph;
+        return newGraph;
     }
 
     private static void DFS(int node)
@@ -62,12 +57,12 @@ public class GraphConnectedComponents
     private static void FindGraphConnectedComponents()
     {
         visited = new bool[graph.Length];
-        for (var startNode = 0; startNode < graph.Length; startNode++)
+        for (var i = 0; i < graph.Length; i++)
         {
-            if (!visited[startNode])
+            if (!visited[i])
             {
                 Console.Write("Connected component:");
-                DFS(startNode);
+                DFS(i);
                 Console.WriteLine();
             }
         }

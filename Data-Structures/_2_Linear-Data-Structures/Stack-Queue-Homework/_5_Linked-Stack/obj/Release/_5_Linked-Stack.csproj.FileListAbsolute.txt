@@ -1,0 +1,5 @@
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Homework\_5_Linked-Stack\bin\Release\_5_Linked-Stack.dll.config
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Homework\_5_Linked-Stack\bin\Release\_5_Linked-Stack.dll
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Homework\_5_Linked-Stack\bin\Release\_5_Linked-Stack.pdb
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Homework\_5_Linked-Stack\obj\Release\_5_Linked-Stack.dll
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Homework\_5_Linked-Stack\obj\Release\_5_Linked-Stack.pdb

@@ -1,0 +1,7 @@
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Exercise\Binary-Tree.Tests\bin\Debug\Trees.Tests.dll
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Exercise\Binary-Tree.Tests\bin\Debug\Trees.Tests.pdb
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Exercise\Binary-Tree.Tests\bin\Debug\Trees.exe
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Exercise\Binary-Tree.Tests\bin\Debug\Trees.pdb
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Exercise\Binary-Tree.Tests\obj\Debug\Trees.Tests.csprojResolveAssemblyReference.cache
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Exercise\Binary-Tree.Tests\obj\Debug\Trees.Tests.dll
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Exercise\Binary-Tree.Tests\obj\Debug\Trees.Tests.pdb

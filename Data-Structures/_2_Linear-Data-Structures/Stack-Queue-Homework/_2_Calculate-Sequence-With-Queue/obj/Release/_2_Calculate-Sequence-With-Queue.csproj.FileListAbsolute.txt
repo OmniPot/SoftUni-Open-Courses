@@ -1,0 +1,6 @@
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Homework\_2_Calculate-Sequence-With-Queue\bin\Release\_2_Calculate-Sequence-With-Queue.exe.config
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Homework\_2_Calculate-Sequence-With-Queue\bin\Release\_2_Calculate-Sequence-With-Queue.exe
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Homework\_2_Calculate-Sequence-With-Queue\bin\Release\_2_Calculate-Sequence-With-Queue.pdb
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Homework\_2_Calculate-Sequence-With-Queue\obj\Release\_2_Calculate-Sequence-With-Queue.csprojResolveAssemblyReference.cache
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Homework\_2_Calculate-Sequence-With-Queue\obj\Release\_2_Calculate-Sequence-With-Queue.exe
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Homework\_2_Calculate-Sequence-With-Queue\obj\Release\_2_Calculate-Sequence-With-Queue.pdb

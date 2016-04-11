@@ -1,0 +1,7 @@
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Exercise\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.dll
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Exercise\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.pdb
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Exercise\CircularQueue.Tests\bin\Debug\CircularQueue.exe
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Exercise\CircularQueue.Tests\bin\Debug\CircularQueue.pdb
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Exercise\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.csprojResolveAssemblyReference.cache
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Exercise\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.dll
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Exercise\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.pdb

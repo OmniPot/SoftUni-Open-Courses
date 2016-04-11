@@ -1,0 +1,7 @@
+E:\Google Drive\Software-University\Data-Structures\_6_Collections-Libraries\Exercise\Collections-Libraries\_1_Events-In-Date-Range\bin\Debug\_1_Events-In-Date-Range.exe
+E:\Google Drive\Software-University\Data-Structures\_6_Collections-Libraries\Exercise\Collections-Libraries\_1_Events-In-Date-Range\bin\Debug\_1_Events-In-Date-Range.pdb
+E:\Google Drive\Software-University\Data-Structures\_6_Collections-Libraries\Exercise\Collections-Libraries\_1_Events-In-Date-Range\bin\Debug\PowerCollections.dll
+E:\Google Drive\Software-University\Data-Structures\_6_Collections-Libraries\Exercise\Collections-Libraries\_1_Events-In-Date-Range\bin\Debug\PowerCollections.xml
+E:\Google Drive\Software-University\Data-Structures\_6_Collections-Libraries\Exercise\Collections-Libraries\_1_Events-In-Date-Range\obj\Debug\_1_Events-In-Date-Range.csprojResolveAssemblyReference.cache
+E:\Google Drive\Software-University\Data-Structures\_6_Collections-Libraries\Exercise\Collections-Libraries\_1_Events-In-Date-Range\obj\Debug\_1_Events-In-Date-Range.exe
+E:\Google Drive\Software-University\Data-Structures\_6_Collections-Libraries\Exercise\Collections-Libraries\_1_Events-In-Date-Range\obj\Debug\_1_Events-In-Date-Range.pdb

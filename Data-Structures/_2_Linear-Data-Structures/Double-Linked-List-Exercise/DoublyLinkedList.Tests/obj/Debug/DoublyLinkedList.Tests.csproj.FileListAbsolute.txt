@@ -1,0 +1,14 @@
+C:\Users\Rumen\Desktop\Linear-Data-Structures\2. Doubly-Linked-List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.dll
+C:\Users\Rumen\Desktop\Linear-Data-Structures\2. Doubly-Linked-List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.pdb
+C:\Users\Rumen\Desktop\Linear-Data-Structures\2. Doubly-Linked-List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.exe
+C:\Users\Rumen\Desktop\Linear-Data-Structures\2. Doubly-Linked-List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.pdb
+C:\Users\Rumen\Desktop\Linear-Data-Structures\2. Doubly-Linked-List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Rumen\Desktop\Linear-Data-Structures\2. Doubly-Linked-List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.dll
+C:\Users\Rumen\Desktop\Linear-Data-Structures\2. Doubly-Linked-List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.pdb
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Double-Linked-List-Exercise\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.dll
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Double-Linked-List-Exercise\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.pdb
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Double-Linked-List-Exercise\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.exe
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Double-Linked-List-Exercise\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.pdb
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Double-Linked-List-Exercise\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csprojResolveAssemblyReference.cache
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Double-Linked-List-Exercise\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.dll
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Double-Linked-List-Exercise\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.pdb

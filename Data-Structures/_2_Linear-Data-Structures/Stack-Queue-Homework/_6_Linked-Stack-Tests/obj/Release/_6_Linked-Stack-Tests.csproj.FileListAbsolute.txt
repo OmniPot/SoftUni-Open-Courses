@@ -1,0 +1,7 @@
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Homework\_6_Linked-Stack-Tests\bin\Release\_6_Linked-Stack-Tests.dll
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Homework\_6_Linked-Stack-Tests\bin\Release\_6_Linked-Stack-Tests.pdb
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Homework\_6_Linked-Stack-Tests\bin\Release\_5_Linked-Stack.dll
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Homework\_6_Linked-Stack-Tests\bin\Release\_5_Linked-Stack.pdb
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Homework\_6_Linked-Stack-Tests\obj\Release\_6_Linked-Stack-Tests.csprojResolveAssemblyReference.cache
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Homework\_6_Linked-Stack-Tests\obj\Release\_6_Linked-Stack-Tests.dll
+E:\Google Drive\Software-University\Data-Structures\_2_Linear-Data-Structures\Stack-Queue-Homework\_6_Linked-Stack-Tests\obj\Release\_6_Linked-Stack-Tests.pdb

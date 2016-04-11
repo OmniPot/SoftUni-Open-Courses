@@ -1,46 +1,28 @@
-
 Problem 1. Add(T) Complexity
-
-Complexity = n = O(n)
-
------------------------------------------------------
-
-Problem 2. Remove(index) Complexity – Worst Case
-
-Worst case = arr.length > 1
-
-Complexity = 2n = O(n)
-
------------------------------------------------------
-
-Problem 3. Remove(index) Complexity – Best Case
-
-Best case = arr.lenght = 1
-
-Complexity = O(1)
-
------------------------------------------------------
-
-Problem 4. Remove(index) Complexity – Average Case
-
-Worst case and average case overlap in that scenario.
 
 Complexity = O(n)
 
 -----------------------------------------------------
+Problem 2. Remove(index) Complexity – Worst Case
 
-Problem 5. RemoveFirst(T) Complexity
+Complexity = O(n)
+
+-----------------------------------------------------
+Problem 3. Remove(index) Complexity – Best Case
 
 Complexity = O(1)
 
 -----------------------------------------------------
+Problem 5. RemoveFirst(T) Complexity
 
+Complexity = O(n)
+
+-----------------------------------------------------
 Problem 6. RemoveLast(T) Complexity
 
 Complexity = O(1)
 
 -----------------------------------------------------
-
 Problem 7. Length Complexity
 
 Complexity = O(1)

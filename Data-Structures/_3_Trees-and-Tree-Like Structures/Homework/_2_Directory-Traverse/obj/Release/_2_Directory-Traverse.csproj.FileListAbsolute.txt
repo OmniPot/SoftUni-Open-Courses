@@ -1,0 +1,6 @@
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Homework\_2_Directory-Traverse\bin\Release\_2_Directory-Traverse.exe.config
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Homework\_2_Directory-Traverse\bin\Release\_2_Directory-Traverse.exe
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Homework\_2_Directory-Traverse\bin\Release\_2_Directory-Traverse.pdb
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Homework\_2_Directory-Traverse\obj\Release\_2_Directory-Traverse.csprojResolveAssemblyReference.cache
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Homework\_2_Directory-Traverse\obj\Release\_2_Directory-Traverse.exe
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Homework\_2_Directory-Traverse\obj\Release\_2_Directory-Traverse.pdb

@@ -6,29 +6,40 @@ public class CountOfOccurancies
 {
     public static void Main()
     {
-        Console.WriteLine("Insert a sequence of numbers separated by a single space.");
-
-        string inputString = Console.ReadLine();
-        string[] inputSequence = inputString.Split(' ');
-
-        List<int> parsedNumbers = inputSequence.Select(str => int.Parse(str)).ToList();
-        SortedDictionary<int, int> occurancies = new SortedDictionary<int, int>();
-
-        for (int numIndex = 0; numIndex < parsedNumbers.Count; numIndex++)
+        try
         {
-            if (occurancies.ContainsKey(parsedNumbers[numIndex]))
+            Console.WriteLine("Insert a sequence of numbers separated by a single space.");
+
+            string inputString = Console.ReadLine();
+            string[] inputSequence = inputString.Split(' ');
+            if (string.IsNullOrEmpty(inputString) || string.IsNullOrWhiteSpace(inputString))
             {
-                occurancies[parsedNumbers[numIndex]]++;
+                throw new ArgumentNullException();
             }
-            else
+
+            List<int> parsedNumbers = inputSequence.Select(str => int.Parse(str)).ToList();
+            SortedDictionary<int, int> occurancies = new SortedDictionary<int, int>();
+
+            foreach (int t in parsedNumbers)
             {
-                occurancies.Add(parsedNumbers[numIndex], 1);
+                if (occurancies.ContainsKey(t))
+                {
+                    occurancies[t]++;
+                }
+                else
+                {
+                    occurancies.Add(t, 1);
+                }
+            }
+
+            foreach (var number in occurancies.Keys)
+            {
+                Console.WriteLine("{0} -> {1} times", number, occurancies[number]);
             }
         }
-
-        foreach (var number in occurancies.Keys)
+        catch (ArgumentNullException e)
         {
-            Console.WriteLine("{0} -> {1} times", number, occurancies[number]);
+            Console.WriteLine(e.Message);
         }
     }
 }

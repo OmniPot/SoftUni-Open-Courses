@@ -1,0 +1,6 @@
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Homework\_1_Play-With-Trees\bin\Release\_1_Play-With-Trees.exe.config
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Homework\_1_Play-With-Trees\bin\Release\_1_Play-With-Trees.exe
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Homework\_1_Play-With-Trees\bin\Release\_1_Play-With-Trees.pdb
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Homework\_1_Play-With-Trees\obj\Release\_1_Play-With-Trees.csprojResolveAssemblyReference.cache
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Homework\_1_Play-With-Trees\obj\Release\_1_Play-With-Trees.exe
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Homework\_1_Play-With-Trees\obj\Release\_1_Play-With-Trees.pdb

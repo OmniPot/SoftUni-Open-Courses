@@ -1,0 +1,7 @@
+E:\Google Drive\Software-University\Data-Structures\_6_Collections-Libraries\Homework\Collections-Libraries\_1_Price-Range\bin\Debug\_1_Price-Range.exe
+E:\Google Drive\Software-University\Data-Structures\_6_Collections-Libraries\Homework\Collections-Libraries\_1_Price-Range\bin\Debug\_1_Price-Range.pdb
+E:\Google Drive\Software-University\Data-Structures\_6_Collections-Libraries\Homework\Collections-Libraries\_1_Price-Range\bin\Debug\PowerCollections.dll
+E:\Google Drive\Software-University\Data-Structures\_6_Collections-Libraries\Homework\Collections-Libraries\_1_Price-Range\bin\Debug\PowerCollections.xml
+E:\Google Drive\Software-University\Data-Structures\_6_Collections-Libraries\Homework\Collections-Libraries\_1_Price-Range\obj\Debug\_1_Price-Range.csprojResolveAssemblyReference.cache
+E:\Google Drive\Software-University\Data-Structures\_6_Collections-Libraries\Homework\Collections-Libraries\_1_Price-Range\obj\Debug\_1_Price-Range.exe
+E:\Google Drive\Software-University\Data-Structures\_6_Collections-Libraries\Homework\Collections-Libraries\_1_Price-Range\obj\Debug\_1_Price-Range.pdb

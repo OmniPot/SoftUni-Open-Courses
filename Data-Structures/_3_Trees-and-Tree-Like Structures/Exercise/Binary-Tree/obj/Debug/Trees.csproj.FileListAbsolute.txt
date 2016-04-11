@@ -1,0 +1,5 @@
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Exercise\Binary-Tree\bin\Debug\Trees.exe
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Exercise\Binary-Tree\bin\Debug\Trees.pdb
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Exercise\Binary-Tree\obj\Debug\Trees.csprojResolveAssemblyReference.cache
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Exercise\Binary-Tree\obj\Debug\Trees.exe
+E:\Google Drive\Software-University\Data-Structures\_3_Trees-and-Tree-Like Structures\Exercise\Binary-Tree\obj\Debug\Trees.pdb

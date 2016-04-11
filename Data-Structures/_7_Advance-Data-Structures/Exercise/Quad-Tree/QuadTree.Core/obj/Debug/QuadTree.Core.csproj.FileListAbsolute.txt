@@ -1,0 +1,5 @@
+E:\Google Drive\Software-University\Data-Structures\_7_Advance-Data-Structures\Exercise\Quad-Tree\QuadTree.Core\bin\Debug\QuadTree.Core.dll
+E:\Google Drive\Software-University\Data-Structures\_7_Advance-Data-Structures\Exercise\Quad-Tree\QuadTree.Core\bin\Debug\QuadTree.Core.pdb
+E:\Google Drive\Software-University\Data-Structures\_7_Advance-Data-Structures\Exercise\Quad-Tree\QuadTree.Core\obj\Debug\QuadTree.Core.csprojResolveAssemblyReference.cache
+E:\Google Drive\Software-University\Data-Structures\_7_Advance-Data-Structures\Exercise\Quad-Tree\QuadTree.Core\obj\Debug\QuadTree.Core.dll
+E:\Google Drive\Software-University\Data-Structures\_7_Advance-Data-Structures\Exercise\Quad-Tree\QuadTree.Core\obj\Debug\QuadTree.Core.pdb

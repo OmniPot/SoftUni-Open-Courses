@@ -1,0 +1,7 @@
+E:\Google Drive\Software-University\Data-Structures\_7_Advance-Data-Structures\Exercise\Binary-Heap\BinaryHeap.Tests\bin\Debug\BinaryHeap.Tests.dll
+E:\Google Drive\Software-University\Data-Structures\_7_Advance-Data-Structures\Exercise\Binary-Heap\BinaryHeap.Tests\bin\Debug\BinaryHeap.Tests.pdb
+E:\Google Drive\Software-University\Data-Structures\_7_Advance-Data-Structures\Exercise\Binary-Heap\BinaryHeap.Tests\bin\Debug\BinaryHeap.exe
+E:\Google Drive\Software-University\Data-Structures\_7_Advance-Data-Structures\Exercise\Binary-Heap\BinaryHeap.Tests\bin\Debug\BinaryHeap.pdb
+E:\Google Drive\Software-University\Data-Structures\_7_Advance-Data-Structures\Exercise\Binary-Heap\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.csprojResolveAssemblyReference.cache
+E:\Google Drive\Software-University\Data-Structures\_7_Advance-Data-Structures\Exercise\Binary-Heap\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.dll
+E:\Google Drive\Software-University\Data-Structures\_7_Advance-Data-Structures\Exercise\Binary-Heap\BinaryHeap.Tests\obj\Debug\BinaryHeap.Tests.pdb
